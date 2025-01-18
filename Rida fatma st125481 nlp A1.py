@@ -1,3 +1,6 @@
+https://st125481ridafatma-nlp-a1-9bfu3h2djkkfbpslvvgf85.streamlit.app/
+
+
 # -*- coding: utf-8 -*-
 """Untitled8.ipynb
 
