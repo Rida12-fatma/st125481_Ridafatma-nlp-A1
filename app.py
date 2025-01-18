@@ -81,5 +81,6 @@ def main():
                 st.success(f"✅ Top 10 similar words for *'{user_target_word}'*:")
                 st.markdown("\n".join([f"- {word}" for word in next_10_cosine_for_user_word]))
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
+
